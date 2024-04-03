@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshara004
 - 👀 I’m interested in cutting edge technologies and development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on profects related computer science domain
+- 💞️ I’m looking to collaborate on projects related to computer science domain
 - 📫 How to reach me ... through LinkedIn
 
 <!---
