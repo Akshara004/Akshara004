@@ -21,6 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshara004&" alt="akshara004" /></p>
 
+[![An image of  @akshara004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshara004)](https://holopin.io/@akshara004)
 <!---
 Akshara004/Akshara004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
