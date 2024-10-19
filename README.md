@@ -7,8 +7,8 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/akshara-tiwari-214085252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akshara-tiwari-214085252" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aksharatiwari004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aksharatiwari004" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/akshara-tiwari-214085252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshara-tiwari-214085252" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aksharatiwari004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aksharatiwari004" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akshara_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshara_31" height="30" width="40" /></a>
 </p>
 <hr>
