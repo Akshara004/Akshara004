@@ -35,7 +35,8 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=akshara004&show_icons=true&locale=en" alt="akshara004" /></p>
 <br>
 
-<img align="center" width="100%"  height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshara004&show_icons=true&locale=en&layout=compact" alt="akshara004" />
+<!-- <img align="center" width="100%"  height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshara004&show_icons=true&locale=en&layout=compact" alt="akshara004" />
+-->
 <hr>
 
 [![An image of  @akshara004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshara004)](https://holopin.io/@akshara004)
