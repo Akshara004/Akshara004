@@ -31,8 +31,8 @@
 
 
 <hr>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshara004&" alt="akshara004" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=akshara004&show_icons=true&locale=en" alt="akshara004" /></p>
+<p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshara004&" alt="akshara004" /></p><br>
+<p>&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=akshara004&show_icons=true&locale=en" alt="akshara004" /></p>
 <br>
 
 <!-- <img align="center" width="100%"  height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshara004&show_icons=true&locale=en&layout=compact" alt="akshara004" />
