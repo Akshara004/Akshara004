@@ -1,4 +1,4 @@
-![logo](https://github.com/Akshara004/Akshara004/blob/main/banner.png)
+<!-- ![logo](https://github.com/Akshara004/Akshara004/blob/main/banner.png) -->
 <h1 align="center">Hello, World!👋, I'm Akshara Tiwari</h1>
 <h3 align="center">A passionate coder on a journey to turn lines of code into impactful solutions.</h3>
 <hr>
